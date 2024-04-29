@@ -11,5 +11,6 @@ In brief, Quiizely works by:
 Generating quizzes in different difficulty levels, making it a great tool for students of all levels.
 
 -Quiizely can help educators, students, and anyone else who wants to create engaging and informative quizzes. It saves time, improves learning, and promotes creativity.
-![Alt text](![image](https://github.com/samarth-17/Quizzely-Smart-Quiz-genration/assets/104029904/e1a4fee0-4a58-4cc2-8fdc-22e7b9395a7a)
+![Alt text](![image](https://github.com/samarth-17/Quizzely-Smart-Quiz-genration/assets/104029904/1ae5ce9c-c5d4-43fc-95f7-e16892205aa0)
+)
 )
