@@ -1,5 +1,6 @@
 ![image](https://github.com/samarth-17/Quizzely-Smart-Quiz-genration/assets/104029904/268ab0d2-e523-444d-9b9e-08723afeb3bc)
-#QUIZZELY- Smart Quiz Genration
+
+# QUIZZELY- Smart Quiz Genration
 Quiizely is a smart quiz generation application that uses natural language processing (NLP) to automatically generate quizzes from any text or PDF file.
 
 In brief, Quiizely works by:
